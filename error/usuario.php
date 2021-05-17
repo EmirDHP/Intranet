@@ -11,7 +11,7 @@ Author URL: http://w3layouts.com
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="shortcut icon" href="../assets/images/BBB.jpg">
 
-  <title>BBB Industries de México | Process Map</title>
+  <title>BBB Industries de México | Error </title>
 
   <!-- google fonts -->
   <link href="//fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
@@ -171,7 +171,7 @@ Author URL: http://w3layouts.com
               <script>
                 document.write(new Date().getFullYear())
               </script> BBB Industries de México. All
-              rights reserved. Developed by <a href="http://emirhernandez.epizy.com/" target="_blank" style="color:#fe5a0e;">Emir Hernandez</a> and <a href="https://homeroresendiz.dev/" target="_blank" style="color:#fe5a0e;">Homero Resendiz</a> from Business Information Department.
+              rights reserved. Developed by <a href="http://emirhernandez.epizy.com/" target="_blank" style="color:#fe5a0e;">Emir Hernandez</a> and <a href="https://homeroresendiz.dev/" target="_blank" style="color:#fe5a0e;">Homero Resendiz</a> from <strong>Business Information System Department</strong>.
             </p>
             </p>
           </div>

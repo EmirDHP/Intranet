@@ -543,7 +543,7 @@
 
     <!-- footer -->
     <section class="w3l-footer">
-        <div class="w3l-footer-16-main py-5">
+    <div class="w3l-footer-16-main py-5">
             <div class="container pt-lg-4">
                 <h3>Contact </h3>
                 <div class="row">
@@ -562,7 +562,7 @@
                             <script>
                                 document.write(new Date().getFullYear())
                             </script> BBB Industries de México. All
-                            rights reserved. Developed by <a href="http://emirhernandez.epizy.com/" target="_blank" style="color:#fe5a0e;">Emir Hernandez</a> and <a href="https://homeroresendiz.dev/" target="_blank" style="color:#fe5a0e;">Homero Resendiz</a> from <strong>Business Information Department</strong>.
+                            rights reserved. Developed by <a href="http://emirhernandez.epizy.com/" target="_blank" style="color:#fe5a0e;">Emir Hernandez</a> and <a href="https://homeroresendiz.dev/" target="_blank" style="color:#fe5a0e;">Homero Resendiz</a> from <strong>Business Information System Department</strong>.
                         </p>
                         </p>
                     </div>

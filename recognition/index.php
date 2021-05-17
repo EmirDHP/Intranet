@@ -92,7 +92,7 @@
         ?>
           <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
             <ul class="navbar-nav mx-lg-auto">
-            <li class="nav-item active">
+              <li class="nav-item active">
                 <a class="nav-link" href="../">Home <span class="sr-only">(current)</span></a>
               </li>
 
@@ -258,7 +258,7 @@
               <script>
                 document.write(new Date().getFullYear())
               </script> BBB Industries de México. All
-              rights reserved. Developed by <a href="http://emirhernandez.epizy.com/" target="_blank" style="color:#fe5a0e;">Emir Hernandez</a> and <a href="https://homeroresendiz.dev/" target="_blank" style="color:#fe5a0e;">Homero Resendiz</a> from <strong>Information Department</strong>.
+              rights reserved. Developed by <a href="http://emirhernandez.epizy.com/" target="_blank" style="color:#fe5a0e;">Emir Hernandez</a> and <a href="https://homeroresendiz.dev/" target="_blank" style="color:#fe5a0e;">Homero Resendiz</a> from <strong>Business Information System Department</strong>.
             </p>
             </p>
           </div>

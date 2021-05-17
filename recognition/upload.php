@@ -50,57 +50,57 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true) {
         </button>
 
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-            <ul class="navbar-nav mx-lg-auto">
+          <ul class="navbar-nav mx-lg-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="../">Home <span class="sr-only">(current)</span></a>
-              </li>
+              <a class="nav-link" href="../">Home <span class="sr-only">(current)</span></a>
+            </li>
 
-              <li class="nav-item">
-                <a class="nav-link" href="http://192.168.1.68/bbb_dlib_rem/grid_tb_documents_main/" target="_blank">Documents</a>
-              </li>
+            <li class="nav-item">
+              <a class="nav-link" href="http://192.168.1.68/bbb_dlib_rem/grid_tb_documents_main/" target="_blank">Documents</a>
+            </li>
 
-              <li class="nav-item">
-                <a class="nav-link" href="http://192.168.1.68/bbb_ISO9001/no_conf/grid_iso_no_conformidad/" target="_blank">Tracking</a>
-              </li>
+            <li class="nav-item">
+              <a class="nav-link" href="http://192.168.1.68/bbb_ISO9001/no_conf/grid_iso_no_conformidad/" target="_blank">Tracking</a>
+            </li>
 
-              <li class="nav-item">
-                <a class="nav-link" href="https://app.powerbi.com/reportEmbed?reportId=cee90a2f-6e21-4f20-bafc-29b271d66431&autoAuth=true&ctid=3de5c242-8e20-4059-a628-b1d64db0e33d&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" target="_blank">KPI</a>
-              </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://app.powerbi.com/reportEmbed?reportId=cee90a2f-6e21-4f20-bafc-29b271d66431&autoAuth=true&ctid=3de5c242-8e20-4059-a628-b1d64db0e33d&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" target="_blank">KPI</a>
+            </li>
 
-              <!-- <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link" href="team.html">Our Team</a>
               </li> -->
 
-              <li class="nav-item">
-                <a class="nav-link" href="../calendar.php">Schedule</a>
-              </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../calendar.php">Schedule</a>
+            </li>
 
-              <li class="nav-item">
-                <a class="nav-link" href="#" role="" button id="dropdownMenuLink" data-toggle="dropdown">Useful Links</a>
-                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                  <a class="dropdown-item" href="http://192.168.1.68/bbb_dlib_rem/ap_Login/" target="_blank">Document Library Login</a>
-                  <a class="dropdown-item" href="../certifications/home.php">Certifications</a>
-                  <a class="dropdown-item" href="../recognition/home.php">Recognitions</a>
-                  <a class="dropdown-item" href="../directorios/index.php">Directory</a>
-                  <!-- <a class="dropdown-item" href="plantillas.html">Calendar Julian</a> -->
-                </div>
-              </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" role="" button id="dropdownMenuLink" data-toggle="dropdown">Useful Links</a>
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                <a class="dropdown-item" href="http://192.168.1.68/bbb_dlib_rem/ap_Login/" target="_blank">Document Library Login</a>
+                <a class="dropdown-item" href="../certifications/home.php">Certifications</a>
+                <a class="dropdown-item" href="../recognition/home.php">Recognitions</a>
+                <a class="dropdown-item" href="../directorios/index.php">Directory</a>
+                <!-- <a class="dropdown-item" href="plantillas.html">Calendar Julian</a> -->
+              </div>
+            </li>
 
-              <li class="nav-item">
-                <a class="nav-link" href="#" role="" button id="dropdownMenuLink" data-toggle="dropdown">Settings</a>
-                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                  <a class="dropdown-item" href="../recognition/upload.php">New recognition</a>
-                  <a class="dropdown-item" href="../certifications/index.php">New certificate</a>
-                  <!-- <a class="dropdown-item" href="../img_carrusel/upload.php">New images</a> -->
-                </div>
-              </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" role="" button id="dropdownMenuLink" data-toggle="dropdown">Settings</a>
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                <a class="dropdown-item" href="../recognition/upload.php">New recognition</a>
+                <a class="dropdown-item" href="../certifications/index.php">New certificate</a>
+                <!-- <a class="dropdown-item" href="../img_carrusel/upload.php">New images</a> -->
+              </div>
+            </li>
 
-              <li class="nav-item">
-                <a class="nav-link" href="../account/logout.php">Logout</a>
-              </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../account/logout.php">Logout</a>
+            </li>
 
-            </ul>
-          </div>
+          </ul>
+        </div>
       </nav>
     </div>
   </header>
@@ -187,7 +187,7 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true) {
               <script>
                 document.write(new Date().getFullYear())
               </script> BBB Industries de México. All
-              rights reserved. Developed by <a href="http://emirhernandez.epizy.com/" target="_blank" style="color:#fe5a0e;">Emir Hernandez</a> and <a href="https://homeroresendiz.dev/" target="_blank" style="color:#fe5a0e;">Homero Resendiz</a> from <strong>Business Information Department</strong>.
+              rights reserved. Developed by <a href="http://emirhernandez.epizy.com/" target="_blank" style="color:#fe5a0e;">Emir Hernandez</a> and <a href="https://homeroresendiz.dev/" target="_blank" style="color:#fe5a0e;">Homero Resendiz</a> from <strong>Business Information System Department</strong>.
             </p>
             </p>
           </div>
