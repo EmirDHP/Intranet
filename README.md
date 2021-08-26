@@ -1,2 +1,2 @@
 # Intranet
-This is an intranet project
+intranet project
