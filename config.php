@@ -1,9 +1,9 @@
 <?php
 
-$host = "192.168.1.180";
-$user = "bbb_admin";
-$password = "@BBB123";
-$db = "bbb_intranet";
+$host = "localhost";
+$user = "root";
+$password = "";
+$db = "intranet";
 
 /* Database credentials. */
 define('DB_SERVER', $host);
